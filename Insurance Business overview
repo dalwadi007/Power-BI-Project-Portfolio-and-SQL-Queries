@@ -72,3 +72,49 @@ The “Reset” button enables a quick return to the default view, enhancing usa
 This dashboard facilitates a comprehensive understanding of the insurance portfolio, policyholder demographics, and claim patterns.
 
 It supports data-driven decisions, enabling more efficient claims processing, customer engagement, and strategic planning to boost profitability.
+
+
+# Report on the Comprehensive Claims and Fraud Insights Dashboard 2
+
+The Comprehensive Claims and Fraud Insights Dashboard by Acko provides an analytical overview of various incidents and fraud-related activities involving vehicle claims across different states in the U.S. The key metrics are summarized as follows:
+
+1)Overall Statistics:
+
+Fraud Reported: 247 cases
+Police Reports Available: 316 cases
+Total Bodily Injuries: 662 reported
+Vehicle Claims: 38 million
+
+2)Incident Types by State:
+
+New York shows the highest number of incidents involving multi-vehicle collisions (119), parked car incidents (16), and single-vehicle collisions (112), alongside some vehicle thefts (15).
+South Carolina follows closely with notable incidents across all categories.
+West Virginia has significant single-vehicle collision claims (85) and a moderate amount of vehicle theft (28).
+
+3)Collision Types:
+
+Front Collisions: The highest number is reported in New York (85), followed by other states with varying figures.
+Rear Collisions: South Carolina leads with 87 incidents, while others range between 32 and 78.
+Side Collisions: Incidents peak in West Virginia (68) and remain significant in other states.
+
+4)Total Vehicle Claims by Damage Type:
+
+Major Damage: Ohio reports the highest at 99 claims, followed by Indiana and Illinois.
+Minor Damage: Ohio again leads (126), with Illinois (116) and Indiana (112) closely trailing.
+Total Loss: Ohio records the most (101), with Illinois and Indiana reporting slightly lower numbers.
+Trivial Damage: Illinois (36) has higher numbers compared to Indiana (26) and Ohio (28).
+
+5)Bodily Injuries by Policy State:
+
+Illinois has a significant number of cases with two bodily injuries (123) and one bodily injury (95).
+Indiana and Ohio also show high counts for both categories, with slight variations.
+
+# Summary
+
+This dashboard highlights states with high incidences of vehicle-related claims, showing varying risk levels and potential fraudulent activities. New York, South Carolina, and Ohio are notable for high incident rates. Rear and side collisions represent significant claim types, while bodily injuries remain a major aspect in Illinois and other key states. This data supports insights into regional risk factors and guides strategic decisions for claims management and fraud prevention.
+
+
+
+
+
+
