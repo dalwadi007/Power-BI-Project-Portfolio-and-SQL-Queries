@@ -1,5 +1,3 @@
-# Power-BI-Project-Portfolio
-Developed Power BI dashboards for customer churn analysis, insurance business performance, and e-commerce sales. Used Star and Snowflake schemas for data modeling, enabling insights into customer behavior, policy performance, and sales trends. These projects supported data-driven decisions to enhance retention, engagement, and operations.
 Project 1 : Customer Churn analysis
 In this project, I developed an interactive Power BI dashboard that employed a Star Schema for dimensional modeling, enabling an effective analysis of customer churn across multiple factors such as bank balance, gender, region, profession, and age. By visualizing key metrics such as churn rate, the dashboard allowed stakeholders to identify high-risk segments, aiding in the development of targeted retention strategies and promotional offers. The insights generated from this analysis were instrumental in formulating data-driven decisions to improve customer retention.
 
