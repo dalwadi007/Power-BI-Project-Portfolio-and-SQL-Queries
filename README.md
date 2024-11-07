@@ -1,4 +1,5 @@
-Project 1 : Customer Churn analysis
+# Project 1 : Customer Churn analysis
+
 In this project, I developed an interactive Power BI dashboard that employed a Star Schema for dimensional modeling, enabling an effective analysis of customer churn across multiple factors such as bank balance, gender, region, profession, and age. By visualizing key metrics such as churn rate, the dashboard allowed stakeholders to identify high-risk segments, aiding in the development of targeted retention strategies and promotional offers. The insights generated from this analysis were instrumental in formulating data-driven decisions to improve customer retention.
 
 Steps Followed in Customer Churn Analysis Project
